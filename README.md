@@ -2,6 +2,8 @@
 
 A simple, responsive application to track income and expenses in Indian rupees (INR). Built with vanilla HTML, CSS, and JavaScript, with no dependencies, backend, or database.
 
+[Live application](https://akshaya9156.github.io/expense-tracker-akshaya-j-u/) · [GitHub repository](https://github.com/akshaya9156/expense-tracker-akshaya-j-u)
+
 ## Features
 
 - Add income and expenses with an amount, category, date, and description.
